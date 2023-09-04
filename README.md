@@ -1,0 +1,1 @@
+This is a re-creation of the popular Stick Ninja mobile game on Processing using C. To use, download Processing and copy the code into the Processing Shell. Also download the images and place them in a directory that Processing can view.
